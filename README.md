@@ -93,7 +93,7 @@
 
 ## 🌐 Languages & Global Perspective
 
-🗣️ **English** (Native) | **French** (Intermediate) | **Spanish** (Basic)  
+🗣️ **English** (Native) | **French** (Intermediate) | **Spanish** (Basic) **Germain** (Basic)  
 🌍 **Cultural Bridge**: Combining African innovation with American research excellence  
 🎯 **Focus**: Developing AI solutions for global challenges, especially in emerging markets
 
