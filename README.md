@@ -1,4 +1,4 @@
-# Hi there 👋 My Name is Tanghang Elvis Tata 
+# 👋 I am Tanghang Elvis Tata 
 
 
 <div align="center">
@@ -49,29 +49,6 @@
 
 ## 🏆 Featured Projects
 
-### 🎙️ [Kinyarwanda Speech Recognition System](https://github.com/tanettech/kinyarwanda-asr)
-> Fine-tuned Whisper model for Kinyarwanda automatic speech recognition
-- **Tech**: PyTorch, Transformers, Gradio, HuggingFace
-- **Impact**: Enabling speech technology for underrepresented languages
-- **Features**: Real-time transcription, multilingual support, production-ready deployment
-
-### 🤖 [Advanced NLP Pipeline Suite](https://github.com/tanettech/nlp-transformers)
-> Comprehensive NLP solutions using transformer architectures
-- **Tech**: BERT, T5, spaCy, custom fine-tuning
-- **Applications**: Sentiment analysis, NER, text classification
-- **Achievement**: 95%+ accuracy on financial text datasets
-
-### 🌾 [AgriTech Computer Vision Platform](https://github.com/tanettech/agritech-cv)
-> Real-time crop disease detection for African agriculture
-- **Tech**: CNN architectures, OpenCV, edge computing optimization
-- **Impact**: Supporting food security across Kenya and Rwanda
-- **Features**: Real-time inference, mobile deployment, explainable AI
-
-### 🎨 [Generative AI & Diffusion Models](https://github.com/tanettech/generative-ai-lab)
-> Implementation of cutting-edge generative models
-- **Tech**: Diffusion models, GANs, VAEs, multimodal systems
-- **Focus**: High-quality synthetic data generation
-- **Applications**: Content creation, data augmentation, creative AI
 
 ---
 
@@ -112,12 +89,6 @@
 
 ## 🌟 Key Achievements
 
-- 🏅 **Advanced Studies** at Carnegie Mellon University (Top 5 CS program globally)
-- 🎯 **27% improvement** in recommendation system performance through NLP integration
-- 🌍 **Cross-continental impact** with projects spanning Africa and North America
-- 📚 **Technical Leadership** in educating next-generation AI engineers
-- 🔬 **Research Contributions** in transformer architectures and generative AI
-
 ---
 
 ## 🌐 Languages & Global Perspective
@@ -140,24 +111,5 @@
 
 ---
 
-## 💡 Current Interests
-
-- 🧠 **Explainable AI**: Making complex models transparent and interpretable
-- 🌍 **AI for Social Good**: Applying AI to solve real-world problems in developing regions
-- 🔊 **Speech Technology**: Advancing conversational AI for multilingual applications
-- 💰 **Fintech AI**: Revolutionizing financial services through intelligent automation
-- 🎓 **AI Education**: Democratizing access to advanced AI knowledge
-
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanettech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  ### 🚀 "Building the future, one neural network at a time"
-  
-  *Always open to collaborating on innovative AI projects and research opportunities!*
-</div>
-
----
-
-⭐️ **Fun Fact**: I'm passionate about bridging the AI divide between developed and developing nations, ensuring that cutting-edge technology benefits everyone, everywhere! 🌍✨
