@@ -1,6 +1,5 @@
-## Hi there 👋 My Name is Tanghang Elvis Tata 
+# Hi there 👋 My Name is Tanghang Elvis Tata 
 
-# Hi there 👋 I'm Tanghang Elvis Tata
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FD4&center=true&vCenter=true&width=440&lines=AI+Researcher+%26+Deep+Learning+Specialist;Carnegie+Mellon+University+Graduate;Transformer+Architecture+Expert;NLP+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
