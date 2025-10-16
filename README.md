@@ -11,20 +11,9 @@
 🤖 **Deep Learning Researcher** specializing in transformer architectures, NLP, and generative AI  
 👨‍🏫 **Teaching Assistant** for Deep Learning at CMU, mentoring AI students  
 💡 **Mission**: solving real-world problems with AI
-
 ---
 
-## 🔭 Current Focus
-
-- 🧠 **Advanced Transformer Models**: Fine-tuning BERT, T5, and custom architectures for specialized tasks
-- 🎯 **Generative AI Systems**: Implementing diffusion models, GANs, and multimodal AI systems
-- 🗣️ **Speech Technology**: Developing Kinyarwanda ASR systems using Whisper fine-tuning
-- 📊 **MLOps & Deployment**: Building scalable AI pipelines for production environments
-- 🔬 **AI Research**: Contributing to cutting-edge research in explainable AI and model optimization
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 🤖 AI/ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -44,11 +33,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -62,47 +46,16 @@
 
 ---
 
-## 🎯 Professional Experience
-
-### 👨‍🏫 Teaching Assistant - Deep Learning | Carnegie Mellon University
-*Spring 2025*
-- Mentoring students on transformer architectures, CNNs, RNNs, GANs
-- Developing educational materials for advanced ML concepts
-- Guiding end-to-end ML pipeline development
-
-### 💻 Software Engineering & Data Science Intern | WiredIn Rwanda
-*June 2024 - Sep 2024*
-- Built recommendation systems using SVD, KNN, SVM algorithms
-- Implemented real-time sentiment analysis pipelines
-- Deployed ML models to production environments
-
-### 🤖 AI/ML Engineer | AI Center of Excellence Africa
-*May 2024 - Aug 2024*
-- Developed computer vision models for agricultural applications
-- Created scalable inference pipelines for real-time processing
-- Conducted technical research on model optimization strategies
-
----
-
-## 🌟 Key Achievements
-
----
-
-## 🌐 Languages & Global Perspective
-
+##  Languages
 🗣️ **English** (Native) | **French** (Intermediate) | **Spanish** (Basic) **Germain** (Basic)  
-🌍 **Cultural Bridge**: Combining African innovation with American research excellence  
-🎯 **Focus**: Developing AI solutions for global challenges, especially in emerging markets
-
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-tata/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:etanghan@andrew.cmu.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanettech)
 
 </div>
 
