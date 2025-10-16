@@ -32,25 +32,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ## 📈 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanettech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanettech&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanettech&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
-##  Languages
+###  Languages
 🗣️ **English** (Native) | **French** (Intermediate) | **Spanish** (Basic) **Germain** (Basic)  
 ---
 
-## Let's Connect!
+### Let's Connect!
 
 <div align="center">
 
