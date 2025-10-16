@@ -7,11 +7,11 @@
 
 ## 🚀 About Me
 
-🎓 **Graduate Student** at **Carnegie Mellon University** pursuing MS in Electrical & Computer Engineering  
+🎓 **Graduate Student** at **Carnegie Mellon University** Msc Electrical & Computer Engineering graduate 
 🤖 **Deep Learning Researcher** specializing in transformer architectures, NLP, and generative AI  
-👨‍🏫 **Teaching Assistant** for Deep Learning at CMU, mentoring the next generation of AI engineers  
-🌍 **Global Perspective** - Born in Cameroon, currently in Pittsburgh, with experience across Africa  
-💡 **Mission**: Revolutionizing AI applications in fintech, agriculture, and real-world problem solving
+👨‍🏫 **Teaching Assistant** for Deep Learning at CMU, mentoring AI students  
+🌍 **Global Perspective** - Born in Cameroon, currently in Rwanda, with experience across Africa  
+💡 **Mission**: solving real-world problems with AI
 
 ---
 
@@ -36,12 +36,10 @@
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
