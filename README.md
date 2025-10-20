@@ -7,8 +7,8 @@
 
 # 🚀 About Me
 ----
-🎓 **Carnegie Mellon University** Msc Electrical & Computer Engineering graduate 
-🤖 **Deep Learning Researcher** specializing in transformer architectures, NLP, and generative AI  
+🎓 ****Carnegie Mellon University** Msc Electrical & Computer Engineering graduate 
+🤖 ****Deep Learning Researcher** specializing in transformer architectures, NLP, and generative AI  
 👨‍🏫 **Teaching Assistant** for Deep Learning at CMU, mentoring AI students  
 💡 **Mission**: solving real-world problems with AI
 ----
