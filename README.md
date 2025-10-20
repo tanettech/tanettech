@@ -5,12 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FD4&center=true&vCenter=true&width=440&lines=AI+Researcher+%26+Deep+Learning+Specialist;Carnegie+Mellon+University+Graduate;Transformer+Architecture;NLP+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 </div>
 
-# 🚀 About Me
+#About Me
 ----
 🎓 Carnegie Mellon University Msc Electrical & Computer Engineering graduate 
-🤖 *** Deep Learning Researcher *** specializing in transformer architectures, NLP, and generative AI  
-👨‍🏫 *** Teaching Assistant *** for Deep Learning at CMU, mentoring AI students  
-💡 *** Mission ***: solving real-world problems with AI
+🤖 Deep Learning Researcher specializing in transformer architectures, NLP, and generative AI  
+👨‍🏫 Teaching Assistant *** for Deep Learning at CMU, mentoring AI students  
 ----
 
 ###  Tech Stack
