@@ -9,7 +9,7 @@
 ----
 🎓 Carnegie Mellon University Msc Electrical & Computer Engineering graduate 
 🤖 Deep Learning Researcher specializing in transformer architectures, NLP, and generative AI  
-👨‍🏫 Teaching Assistant *** for Deep Learning at CMU, mentoring AI students  
+👨‍🏫 Teaching Assistant for Deep Learning at CMU, mentoring AI students  
 ----
 
 ###  Tech Stack
@@ -40,7 +40,7 @@
 ---
 
 ###  Languages
-🗣️ **English** (Native) | **French** (Intermediate) | **Spanish** (Basic) **Germain** (Basic)  
+🗣️ ***English*** (Native) | **French** (Intermediate) | **Spanish** (Basic) **Germain** (Basic)  
 ---
 
 ### Let's Connect!
