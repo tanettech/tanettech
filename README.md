@@ -18,7 +18,7 @@ Teaching Assistant for Deep Learning at CMU, mentoring AI students
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-![Scikit Learn](https://scikit-learn.org/stable/)
+![Scikit Learn]([https://scikit-learn.org/stable/](https://camo.githubusercontent.com/bb00e2c30e6337c002cdf342a52fa065e39ca7123ddb61bf018f07c3a981350c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69745f6c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465))
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
