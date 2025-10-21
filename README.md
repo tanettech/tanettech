@@ -1,15 +1,15 @@
-# 👋 I am Tanghang Elvis Tata 
+# Elvis Tata Tanghang
 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9FD4&center=true&vCenter=true&width=440&lines=AI+Researcher+%26+Deep+Learning+Specialist;Carnegie+Mellon+University+Graduate;Transformer+Architecture;NLP+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 </div>
 
-#About Me
+### About Me
 ----
-🎓 Carnegie Mellon University Msc Electrical & Computer Engineering graduate 
-🤖 Deep Learning Researcher specializing in transformer architectures, NLP, and generative AI  
-👨‍🏫 Teaching Assistant for Deep Learning at CMU, mentoring AI students  
+Carnegie Mellon University Msc Electrical & Computer Engineering graduate 
+Deep Learning Researcher specializing in transformer architectures, NLP, and generative AI  
+Teaching Assistant for Deep Learning at CMU, mentoring AI students  
 ----
 
 ###  Tech Stack
@@ -25,13 +25,13 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanettech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -40,7 +40,7 @@
 ---
 
 ###  Languages
-🗣️ ***English*** (Native) | **French** (Intermediate) | **Spanish** (Basic) **Germain** (Basic)  
+***English*** (Native) | **French** (Intermediate) | **Spanish** (Basic) **Germain** (Basic)  
 ---
 
 ### Let's Connect!
