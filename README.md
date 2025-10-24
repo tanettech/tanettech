@@ -9,7 +9,7 @@
 ----
 Carnegie Mellon University Msc ECE-AD Alumnus
 DL Researcher, LLMs, NLP, and GenAI  
-Teaching Assistant for Deep Learning at CMU, mentoring AI students  
+Teaching Assistant for Deep Learning at CMU, mentoring AI/DL students  
 ----
 
 ###  Tech Stack
