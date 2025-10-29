@@ -38,7 +38,7 @@ Pytorch, sklearn, TensorFlow, HuggingFace
 ***English*** (Native) | **French** (Intermediate)| **Germain** (Basic)  
 ---
 
-### Let's Connect!
+### Connect with me!
 
 <div align="center">
 
