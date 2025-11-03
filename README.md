@@ -32,9 +32,8 @@ Pytorch, sklearn, TensorFlow, HuggingFace
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanettech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanettech&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
----
 
-###  Languages
+### Languages
 ***English*** (Native) | **French** (Intermediate)| **Germain** (Basic)  
 
 
