@@ -7,7 +7,7 @@
 ### About Me
 ----
 Carnegie Mellon University Msc ECE-AD Alumnus
-DL Researcher, LLMs, NLP, and GenAI  
+NLP Researcher
 Teaching Assistant for Deep Learning at CMU, mentoring AI/ML/DL students  
 ----
 
