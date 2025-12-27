@@ -14,7 +14,7 @@ Teaching Assistant for Deep Learning at CMU, mentoring AI/ML/DL students
 ###  Tech Stack
 
 ### AI/ML Frameworks
-Pytorch, sklearn, TensorFlow, HuggingFace.
+Pytorch, sklearn, TensorFlow, HuggingFace, wandb
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
