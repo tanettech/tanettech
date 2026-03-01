@@ -8,7 +8,7 @@
 ----
 Carnegie Mellon University Msc ECE-AD Alumnus
 NLP Researcher
-Teaching Assistant for Deep Learning at CMU, mentoring AI/ML/DL students ..b
+Teaching Assistant for Deep Learning at CMU, mentoring AI/ML/DL students 
 ----
 
 ###  Tech Stack
