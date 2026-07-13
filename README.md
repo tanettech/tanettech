@@ -6,7 +6,7 @@
 
 ### About Me
 ----
-Carnegie Mellon University Msc ECE-AD Alumnus
+Carnegie Mellon University Msc ECE-AD Alumnus, 
 NLP Researcher, AI Reporter,
 Teaching Assistant for Deep Learning at CMU, mentoring AI/ML/DL students
 ----
