@@ -7,7 +7,7 @@
 ### About Me
 ----
 Carnegie Mellon University Msc ECE-AD Alumnus, 
-NLP Researcher, AI Reporter,
+NLP Researcher. 
 
 ----
 
