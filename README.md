@@ -11,7 +11,7 @@ NLP Researcher, AI Reporter,
 
 ----
 
-###  Tech Stack
+###  Stack
 
 ### AI/ML Frameworks
 Pytorch, sklearn, TensorFlow, HuggingFace, wandb, Tensorboard, Nvidia-NeMo. docker.
