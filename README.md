@@ -11,7 +11,7 @@ NLP Researcher.
 
 ----
 
-###  Stack
+###  Tech Stack
 
 ### AI/ML Frameworks
 Pytorch, sklearn, TensorFlow, HuggingFace, wandb, Tensorboard, Nvidia-NeMo. docker. FastAPI
