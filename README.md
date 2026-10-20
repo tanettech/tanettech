@@ -26,7 +26,7 @@ Pytorch, sklearn, TensorFlow, HuggingFace, wandb, Tensorboard, Nvidia-NeMo. dock
 
 
 ### Languages:
-***English*** (Native) | **French** (Intermediate)| **Germain** (Basic). 
+***English*** (Native) | **French** (Intermediate)| **Germain** (Basic)...
 
 
 ### Connect with me!
